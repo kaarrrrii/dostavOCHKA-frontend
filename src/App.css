@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.mainNav a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.mainNav a:hover {
+	color:rgb(253, 0, 152);
+}
+
+.navList {
+	font-family: "Raleway", sans-serif;
+	list-style-type: none;
+	color: black;
+	font-weight: bold;
+}
+.cartLink {
+	background-color: rgb(253, 0, 152);
+	border: 0cm;
+	border-radius: 15px;
+	font-family: "Raleway", sans-serif;
+	color: white;
+}
+
+.cartLink a:hover {
+	font-weight: bold;
+}
